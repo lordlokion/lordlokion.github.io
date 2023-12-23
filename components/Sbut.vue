@@ -1,10 +1,21 @@
 <template>
   <div>
     <a :href="link">
-      <div
-        class="relative inline-block px-4 sm:px-5 py-2 sm:py-2.5 md:py-3 text-base sm:text-lg md:text-xl font-bold text-center text-black no-underline whitespace-no-wrap align-middle bg-white border-2 border-gray-900 border-solid rounded-md shadow-xs cursor-pointer select-none hover:bg-black hover:shadow-xs hover:text-white focus:shadow-xs transform transition-transform duration-300 hover:scale-105"
-      >
-        {{ textinput }}
+      <div class="container mx-auto px-4">
+        <div class="-mx-4 flex flex-wrap items-end">
+          <div class="w-full px-4 xl:w-2/3">
+            <div class="mx-auto max-w-2xl mt-8 xl:mr-0">
+              <a class="group relative inline-block h-14 w-full rounded bg-white sm:w-44 md:w-56 lg:w-64" href="https://dev.to/lordlokion">
+                <div class="absolute left-0 top-0 h-full w-full -translate-x-1 -translate-y-1 transform transition duration-300 group-hover:translate-x-0 group-hover:translate-y-0">
+                  <div class="flex h-full w-full items-center justify-center rounded border-2 border-white bg-black">
+                    <span class="text-base md:text-lg lg:text-xl font-semibold font-mono uppercase text-white">{{textinput}}</span>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div></div>
       </div>
     </a>
   </div>
