@@ -1,9 +1,9 @@
 <template>
-  <div class="container p-8 md:mt-20 ">
+  <div class="container p-8 md:mt-20">
     <div class="relative flex flex-wrap items-center justify-between">
       <div></div>
 
-      <div class="w-full px-4 sm:w-auto lg:mt-20 ">
+      <div class="w-full px-4 sm:w-auto lg:mt-20">
         <div class="flex items-center justify-center">
           <a
             class="mb-3 mr-3 flex h-10 w-10 transform items-center justify-center rounded-full bg-gray-800 transition duration-300 ease-in-out hover:scale-110"
@@ -84,3 +84,4 @@
     </div>
   </div>
 </template>
+
