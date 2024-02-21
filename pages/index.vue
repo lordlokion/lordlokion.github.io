@@ -6,7 +6,7 @@
           <img src="../src/img4.png" alt="Image" class="w-full h-auto" />
         </div>
         <div class="w-full md:w-1/2 lg:w-1/2 xl:w-1/2 px-8 md:py-8">
-          <span class="inline-block py-px px-2 mb-4 font-mono text-xs leading-5 text-white bg-green-500 uppercase rounded-9xl">Akhilsharma870@gmail.com</span>
+          <a href="mailto:Akhilsharma870@gmail.com"><span class="inline-block py-px px-2 mb-4 font-mono text-xs leading-5 text-white bg-green-500 uppercase rounded-9xl">Akhilsharma870@gmail.com</span></a>
           <div class="mb-0 text-white text-left font-mono text-2xl">LORD LOKION</div>
           <div class="mb-4 text-left text-white font-mono text-xs">AKA. AKHIL SHARMA</div>
 
