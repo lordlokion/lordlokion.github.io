@@ -11,7 +11,7 @@
           <div class="mb-4 text-left text-white font-mono text-xs">AKA. AKHIL SHARMA</div>
 
           <div class="text-left text-white font-mono text-lg">Full Stack Developer with a strong foundation in both frontend and backend technologies, I specialize in creating robust, scalable, and efficient solutions for a diverse range of projects. Let's create something exceptional together!</div>
-          <Sbut textinput="Articles" />
+          <Sbut textinput="My Blog" />
 
         </div>
 
